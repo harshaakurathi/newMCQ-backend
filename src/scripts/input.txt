@@ -1,0 +1,30 @@
+## mainTopic: SQL
+## numberOfQuestions: 5
+## mode: practice
+## isBase: false
+## toughness: medium
+---
+## Reading Material
+### Introduction to SQL
+
+SQL stands for Structured Query Language and is used to manage and manipulate relational databases. It allows users to create, read, update, and delete data stored in tables. SQL is essential for querying data efficiently and performing operations on relational databases.
+
+### Data Definition Language
+
+Data Definition Language or DDL consists of SQL commands used to define the structure of a database. Common DDL commands include CREATE, ALTER, and DROP, which are used to create tables, modify table structures, and delete tables or databases. DDL ensures that the database schema is well-defined and maintained.
+
+### Data Manipulation Language
+
+Data Manipulation Language or DML is used to work with the data stored in the database tables. Common DML commands are INSERT to add data, UPDATE to modify existing data, DELETE to remove data, and SELECT to retrieve data. DML allows interaction with the database content without altering its structure.
+
+### Joins
+
+Joins are SQL operations used to combine rows from two or more tables based on a related column between them. Types of joins include INNER JOIN, LEFT JOIN, RIGHT JOIN, and FULL OUTER JOIN. Joins are fundamental for retrieving complex data that resides across multiple tables.
+
+### Functions and Aggregations
+
+SQL provides built-in functions to perform calculations and transformations on data. Aggregate functions like SUM, COUNT, AVG, MIN, and MAX allow summarizing data efficiently. Other functions such as string, date, and numeric functions help in formatting and processing data during queries.
+
+### Transactions
+
+A transaction is a sequence of SQL operations executed as a single unit. Transactions ensure data integrity by following the ACID properties: Atomicity, Consistency, Isolation, and Durability. COMMIT and ROLLBACK are used to save or undo changes in a transaction, making SQL reliable for concurrent data operations.

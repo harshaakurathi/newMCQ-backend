@@ -1,0 +1,67 @@
+{
+  "_id": "652f0c1234abcd5678",
+  "topicName": "Integration Testing",
+  "readingMaterial": "## Integration Testing\nIntegration testing ensures modules work together...",
+  "mode": "practice",
+  "mcqs": [
+    {
+      "question_id": "966d5ea1-47d2-43e5-a794-43d84474f829",
+      "is_base": true,
+      "question_key": "integration_testing_v1",
+      "skills": [],
+      "toughness": "EASY",
+      "question_type": "MULTIPLE_CHOICE",
+      "question": {
+        "content": "What does integration testing focus on?",
+        "content_type": "MARKDOWN",
+        "tag_names": ["Integration Testing", "UNDERSTANDING"],
+        "multimedia": []
+      },
+      "options": [
+        {
+          "content": "Testing individual functions in isolation.",
+          "is_correct": false
+        },
+        {
+          "content": "Testing how multiple components or units work together.",
+          "is_correct": true
+        }
+      ],
+      "explanation_for_answer": {
+        "content": "Integration testing checks interactions between modules.",
+        "content_type": "MARKDOWN"
+      }
+    },
+    {
+      "question_id": "b312a8d2-4e1c-4561-8c71-111c555d9a91",
+      "is_base": false,
+      "base_question_id": "966d5ea1-47d2-43e5-a794-43d84474f829",
+      "question_key": "integration_testing_v1_variant1",
+      "skills": [],
+      "toughness": "EASY",
+      "question_type": "MULTIPLE_CHOICE",
+      "question": {
+        "content": "Which type of testing verifies module interaction?",
+        "content_type": "MARKDOWN",
+        "tag_names": ["Integration Testing", "UNDERSTANDING"],
+        "multimedia": []
+      },
+      "options": [
+        {
+          "content": "Unit Testing",
+          "is_correct": false
+        },
+        {
+          "content": "Integration Testing",
+          "is_correct": true
+        }
+      ],
+      "explanation_for_answer": {
+        "content": "Integration testing checks interactions between modules.",
+        "content_type": "MARKDOWN"
+      }
+    }
+  ],
+  "createdAt": "2025-09-23T15:20:00Z",
+  "updatedAt": "2025-09-23T15:20:00Z"
+}
